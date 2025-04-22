@@ -1,0 +1,47 @@
+                                    Exercício EBAC Engenheiro de Qualidade de Software 
+
+ 
+
+Testador: Hugo Magno 
+
+Data: 22/04/25 
+
+Produto para Análise: Mouse Logitech G502 X (modelo com fio) 
+
+ 
+
+Características iniciais: 
+
+Um mouse relativamente confortável de se pegar na mão, variedade considerável de botões para maior configuração de comandos e com resposta instantânea. 
+
+ 
+
+Matéria-Prima: 
+
+O exterior tem dois tipos de materiais, um ao que se assemelha a borracha (acredito que seja para evitar que os dedos escorreguem) e o outro um plástico resistente que além de confortável é bastante liso. 
+
+ 
+
+Durabilidade: 
+
+O produto está em posse do usuário a cerca de um ano e ao que aparenta sua vida útil pode ultrapassar os 5 anos ou até mais se cuidado com atenção. 
+
+ 
+
+Usabilidade: 
+
+Conforme o passar do tempo o produto foi usado para diversas atividades e em todas elas o usuário não relatou quaisquer problemas ou incômodos. 
+
+ 
+
+Design: 
+
+Quanto ao design ele vem nas cores branca e preto, este do usuário em questão é branco, a modelagem dele tem uma certa beleza. 
+
+ 
+
+Conclusões Finais: 
+
+Um ótimo mouse para quem busca o equilíbrio entre conforto e utilidade. 
+
+Nota: 95 de 100
